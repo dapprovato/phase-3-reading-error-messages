@@ -1,3 +1,3 @@
 1 + 1
 
-1 + "is the loneliest number"
+type_error = "is the loneliest number"
